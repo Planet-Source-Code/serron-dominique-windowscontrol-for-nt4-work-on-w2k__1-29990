@@ -1,0 +1,13 @@
+Mod_Registry = 88, -4, 597, 556, 
+Mod_Général = 110, 18, 619, 578, 
+Frm_AideReg = 132, 40, 835, 546, , 66, -3, 571, 535, C
+Mod_ShutDownNT = 154, 62, 663, 622, 
+Mod_StartUpLink = 66, -26, 575, 534, 
+Mod_LectureEcriture = 22, -70, 531, 490, 
+cls_SysInfos = 132, 40, 632, 600, 
+cls_ElementsBureau = 22, -70, 522, 490, 
+Frm_Principal = 22, -70, 522, 490, , 44, -25, 540, 513, C
+cls_IconeTray = 44, 44, 574, 485, 
+cls_Reseau = 12, -27, 512, 533, Z
+cls_Internet = 66, 20, 558, 497, 
+Frm_Aide = 198, 152, 718, 629, , 176, 153, 692, 608, C
